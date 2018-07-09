@@ -1,0 +1,8 @@
+
+WebAPITest/.vs/WebAPITest/v15/.suo
+WebAPITest/.vs/WebAPITest/v15/Server/sqlite3/db.lock
+*.ide
+*.ide-shm
+*.ide-wal
+WebAPITest/WebAPITest/obj
+WebAPITest/WebAPITest/bin
