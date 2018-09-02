@@ -1,0 +1,11 @@
+services:
+  webapitest:
+    build:
+      context: C:\Users\rober\Repos\HerokuAspTest\WebAPITest
+      dockerfile: WebAPITest/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webapitest
+    ports:
+    - target: 80
+version: '3.4'

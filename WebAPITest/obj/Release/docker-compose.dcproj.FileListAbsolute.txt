@@ -1,0 +1,1 @@
+C:\Users\rober\Repos\HerokuAspTest\WebAPITest\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
