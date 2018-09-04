@@ -22,6 +22,7 @@ namespace WebAPITest.Controllers
         [HttpGet("{id}", Name = "Get")]
         public string Get(int id)
         {
+            new Utils.LoginUtils.Auth().SetEnvironment();
             return "value";
         }
         
